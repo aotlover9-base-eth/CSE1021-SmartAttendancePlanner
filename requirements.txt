@@ -1,0 +1,5 @@
+# Zero external dependencies required to run the core CLI application.
+# AttendTrack uses pure Python standard library (sqlite3, dataclasses, argparse, datetime, math).
+
+# Development and testing tools:
+pytest>=7.0.0
